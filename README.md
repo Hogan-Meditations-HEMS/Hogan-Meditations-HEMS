@@ -1,5 +1,7 @@
 # HEMS: Hybrid Entrainment Meditation System
 
+# Currently under construction we will be fully operational soon.
+
 ### *Precision Neural Architecture by Hogan Meditations*
 
 Welcome to the **Engineer’s Vault**. HEMS is a proprietary audio-entrainment framework designed to bypass the limitations of standard ambient music through a 6-layer frequency-mapped architecture.
