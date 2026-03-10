@@ -19,20 +19,20 @@ While standard binaural tracks often rely on a single frequency offset, HEMS uti
 
 ---
 
-> ### **The HEMS Two-Tier System: Art meets Science**
-> 
-> 
-> To accommodate both the neuro-biological requirements of entrainment and the psychological need for cultural grounding, HEMS operates on two distinct levels:
-> * **Tier 1: The Ballads (Art/Anchors)**
-> * **Duration:** 3–5 Minutes.
-> * **Purpose:** High-fidelity "Relivening" anchors. These tracks use the **AIrish Balladeer** persona to focus the mind on specific cultural, historical (e.g., *Bataí Scóir*), or Chakra intents. For the experienced meditator, these serve as post-hypnotic triggers to rapidly recall states achieved during deeper sessions.
-> 
-> 
-> * **Tier 2: The Deep Sessions (Science/Architecture)**
-> * **Duration:** 50 Minutes (e.g., the **12-5Hz Theta_Plus_40Hz**).
-> * **Purpose:** Full Neural Entrainment. These sessions follow a precise "Neural Descent" protocol, transitioning the brain from Alpha (12Hz) down to the Theta/Delta border (4Hz).
-> * **The Lucidity Spike:** Unlike standard tracks, Tier 2 sessions include **40Hz Gamma spikes**. These are engineered to prevent "sleep-drift"—keeping the mind alert and lucid while the body remains in a state of deep relaxation.
-> * 
+ ### **The HEMS Two-Tier System: Art meets Science**
+ 
+ 
+ To accommodate both the neuro-biological requirements of entrainment and the psychological need for cultural grounding, HEMS operates on two distinct levels:
+ * **Tier 1: The Ballads (Art/Anchors)**
+ * **Duration:** 3–5 Minutes.
+ * **Purpose:** High-fidelity "Relivening" anchors. These tracks use the **AIrish Balladeer** persona to focus the mind on specific cultural, historical (e.g., *Bataí Scóir*), or Chakra intents. For the experienced meditator, these serve as post-hypnotic triggers to rapidly recall states achieved during deeper sessions.
+ 
+ 
+ * **Tier 2: The Deep Sessions (Science/Architecture)**
+ * **Duration:** 50 Minutes (e.g., the **12-5Hz Theta_Plus_40Hz**).
+ * **Purpose:** Full Neural Entrainment. These sessions follow a precise "Neural Descent" protocol, transitioning the brain from Alpha (12Hz) down to the Theta/Delta border (4Hz).
+ * **The Lucidity Spike:** Unlike standard tracks, Tier 2 sessions include **40Hz Gamma spikes**. These are engineered to prevent "sleep-drift"—keeping the mind alert and lucid while the body remains in a state of deep relaxation.
+
 ---
 
 ## **The "Spinc" Standard Releases**
