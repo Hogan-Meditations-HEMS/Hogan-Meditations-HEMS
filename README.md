@@ -1,8 +1,8 @@
-#### **I. HTMS designed to help both beginners and experienced mediatators**
+#### **I. HTMS designed to help both beginners and experienced meditators**
 
 > The H.E.M.S. Project: Neural Modernization Harmonic Engineering for Mind States.
 
-> *Legacy Electronics Engineer documenting Hogan's Meditations & HEMS (Hogan's Entrainment Medition System).*
+> *Legacy Electronics Engineer documenting Hogan's Meditations & HEMS (Hogan's Entrainment Meditation System).*
 
 **Quick Links**
 
