@@ -1,51 +1,46 @@
-# Hogan-Meditations-HEMS
+#### **I. HTMS designed to help both beginners and experienced mediatators**
 
-# Currently under construction we will be fully operational soon.
+> The H.E.M.S. Project: Neural Modernization Harmonic Engineering for Mind States.
 
-**Legacy Electronics Engineer documenting Hogan's Meditations & HEMS (Hogan's Entrainment Management System).**
+> *Legacy Electronics Engineer documenting Hogan's Meditations & HEMS (Hogan's Entrainment Medition System).*
 
----
+**Quick Links**
 
-## **Technical Preface: The HEMS Architecture**
+> [**Releases**](https://github.com/Hogan-Meditations-HEMS/Hogan-Meditations-HEMS/releases)
 
-**HEMS (Hogan’s Entrainment Management System) is not a collection of passive background music; it is a calibrated neural entrainment framework built on legacy electronics engineering principles.**
 
-While standard binaural tracks often rely on a single frequency offset, HEMS utilizes a structured 6-layer "Spinc" Standard to ensure deeper entrainment and physiological grounding:
+> [**YouTube**](https://www.youtube.com/@AIrishBalladeer)
 
-* **Precision Frequency Drivers:** Utilizing legacy tools like the **Cool Edit Pro Brainwave Synchronizer**, we apply specific amplitude and frequency modulations that modern lossy formats often strip away.
-* **The Schumann Foundation:** Every HEMS session is grounded in the **7.83Hz Schumann Resonance** (the Earth’s heartbeat), ensuring that neural shifts remain harmonized with the natural electromagnetic environment.
-* **Bespoke Carrier Tuning:** Unlike generic 440Hz tuning, HEMS uses calculated carriers (such as the **136.1Hz Earth Year** or **141.27Hz Mercury resonance**) to align with the specific intent of the session.
-* **Lossless Distribution:** This repository serves as the official **FLAC (Lossless) Vault**. We provide high-fidelity audio data to preserve the mathematical integrity of the frequency offsets, which is critical for effective brainwave entrainment.
 
----
+> [**Facebook**](https://www.facebook.com/patrick.hogan.735)
 
- ### **The HEMS Two-Tier System: Art meets Science**
- 
- 
- To accommodate both the neuro-biological requirements of entrainment and the psychological need for cultural grounding, HEMS operates on two distinct levels:
- * **Tier 1: The Ballads (Art/Anchors)**
- * **Duration:** 3–5 Minutes.
- * **Purpose:** High-fidelity "Relivening" anchors. These tracks use the **AIrish Balladeer** persona to focus the mind on specific cultural, historical (e.g., *Bataí Scóir*), or Chakra intents. For the experienced meditator, these serve as post-hypnotic triggers to rapidly recall states achieved during deeper sessions.
- 
- 
- * **Tier 2: The Deep Sessions (Science/Architecture)**
- * **Duration:** 50 Minutes (e.g., the **12-5Hz Theta_Plus_40Hz**).
- * **Purpose:** Full Neural Entrainment. These sessions follow a precise "Neural Descent" protocol, transitioning the brain from Alpha (12Hz) down to the Theta/Delta border (4Hz).
- * **The Lucidity Spike:** Unlike standard tracks, Tier 2 sessions include **40Hz Gamma spikes**. These are engineered to prevent "sleep-drift"—keeping the mind alert and lucid while the body remains in a state of deep relaxation.
+> [ **Email** ](mailto:xpatpaddy@gmail.com)
 
 ---
 
-## **The "Spinc" Standard Releases**
+#### **II. The Core Mission**
 
-*Documentation and high-fidelity audio samples for active HEMS projects.*
-
-* **12-5Hz Foundation (Beta):** [Pending FLAC Upload] A core meditation track focusing on the transition from Alpha to Theta states.
-* **The Gaze of Brí Éile (Croghan Hill):** [In Development] 7.83Hz Schumann-focused entrainment integrated with Celtic historical balladry.
-* **The Arch of Silence (Vishuddha):** [Staging] 741Hz Throat Chakra resonance designed for communication and expression.
+Traditional meditation music often prioritizes melody over mathematics. **H.E.M.S.** reverses this. We use precise carrier frequencies and binaural entrainment to provide the brain with a "Neural Map" to specific states—from the creative Alpha bridge to the deep healing of Theta.
 
 ---
 
-## **How to Use This Vault**
+#### **III. The "Universal Theta Slide" (Current Release)**
 
-1. **For Seekers:** Visit the [Project Page](https://hogan-meditations-hems.github.io/Hogan-Meditations-HEMS/) for browser-based previews.
-2. **For Engineers:** Download the **FLAC** files from the repository to ensure full-frequency integrity during your sessions.
+Our flagship 50-minute release is now live in the **Releases** section.
+
+* **Slide:** 12Hz (Alpha) to 5Hz (Deep Theta)
+* **Format:** Lossless FLAC
+* **Includes:** Technical Manual (PDF) and High-Res Infographic.
+* [**Releases**](https://github.com/Hogan-Meditations-HEMS/Hogan-Meditations-HEMS/releases)
+
+---
+
+#### **IV. Mind State Guide**
+
+* **Gamma (30Hz+):** Peak Focus / Insight
+* **Beta (13-30Hz):** Active Thinking / Alertness
+* **Alpha (8-13Hz):** Relaxation / Visualization
+* **Theta (4-8Hz):** Deep Meditation / REM / Subconscious
+* **Delta (0.5-4Hz):** Deep Sleep / Physical Repair
+
+---
