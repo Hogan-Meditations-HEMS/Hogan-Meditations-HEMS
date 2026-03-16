@@ -8,9 +8,9 @@
 
 > [**Releases**](https://github.com/Hogan-Meditations-HEMS/Hogan-Meditations-HEMS/releases)
 
+> [**Discuss On GitHub**](https://github.com/Hogan-Meditations-HEMS/Hogan-Meditations-HEMS/discussions)
 
 > [**YouTube**](https://www.youtube.com/@AIrishBalladeer)
-
 
 > [**Facebook**](https://www.facebook.com/patrick.hogan.735)
 
