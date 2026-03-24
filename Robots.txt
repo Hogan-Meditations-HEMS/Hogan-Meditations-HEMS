@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hogan-meditations-hems.github.io/Hogan-Meditations-HEMS/sitemap.xml
