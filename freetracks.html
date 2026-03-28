@@ -126,7 +126,10 @@ body {font-family: "Lato", sans-serif; background-color: #0d1117; color: #c9d1d9
 
   <div class="w3-row download-card">
     <div class="w3-col m4">
-      <img src="images/layered_graph_free_meditation_entrainment.png" alt="HEMS 7-Layer Neural Entrainment Architecture Graph" class="thumb-img">
+      <img src="images/layered_graph_free_meditation_entrainment.png"
+      style="width:100%; cursor:zoom-in" 
+      onclick="onClick(this)" 
+      alt="HEMS 7-Layer Neural Entrainment Architecture Graph" class="thumb-img">
     </div>
     <div class="w3-col m8 w3-container w3-padding-large">
       <h3>HEMS: Universal Theta Slide (50 Min)</h3>
@@ -138,7 +141,10 @@ body {font-family: "Lato", sans-serif; background-color: #0d1117; color: #c9d1d9
 
   <div class="w3-row download-card">
     <div class="w3-col m4">
-      <img src="images/hems-7-layer-meditation-chart.png" alt="HEMS binaural layered Entrainment Architecture" class="thumb-img">
+      <img src="images/hems-7-layer-meditation-chart.png" 
+      style="width:100%; cursor:zoom-in" 
+      onclick="onClick(this)" 
+      alt="HEMS binaural layered Entrainment Architecture" class="thumb-img">
     </div>
     <div class="w3-col m8 w3-container w3-padding-large">
       <h3>HEMS: The 10-Minute Neural Reset</h3>
@@ -180,6 +186,14 @@ body {font-family: "Lato", sans-serif; background-color: #0d1117; color: #c9d1d9
   </div>
 </div>
 
+<div id="imageModal" class="w3-modal" onclick="this.style.display='none'">
+  <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+  <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent">
+    <img id="img01" style="width:100%; max-width:800px" class="w3-card-4">
+    <div id="caption" class="w3-container w3-text-white w3-padding-16"></div>
+  </div>
+</div>
+
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
   <a href="https://www.facebook.com/patrick.hogan.735" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
@@ -213,6 +227,12 @@ window.onclick = function(event) {
   if (event.target.className == 'w3-modal') {
     event.target.style.display = "none";
   }
+}
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("imageModal").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
 }
 </script>
 
