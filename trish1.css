@@ -13,6 +13,11 @@ a{
 	outline-width: 0;
 	color: #006;
 }
+/* Custom Active Page Highlight */
+.w3-bar .active-page {
+  background-color: #1b2f9e !important;
+  color: white !important;
+}
 abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
 b,strong{font-weight:bolder}dfn{font-style:italic}mark{background:#ff0;color:#000}
 small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
