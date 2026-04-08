@@ -1,65 +1,58 @@
-# Hogan’s Entrainment Meditation System (HEMS) 🧠🌿
+# Hogan’s Entrainment Meditation System (H.E.M.S.) 🧠🌿
 
 **Quick Links**
-
-> [**Releases**](https://github.com/Hogan-Meditations-HEMS/Hogan-Meditations-HEMS/releases)
-
-> [**YouTube**](https://www.youtube.com/@AIrishBalladeer)
-
-> [**Facebook**](https://www.facebook.com/patrick.hogan.735)
->
-> [**Our Website**](https://hogan-meditations-hems.github.io/Hogan-Meditations-HEMS/)
-
-> [ **Email** ](mailto:xpatpaddy@gmail.com)
-
+> [**Official Website**](https://hogan-meditations-hems.github.io/Hogan-Meditations-HEMS/) | [**YouTube**](https://www.youtube.com/@AIrishBalladeer) | [**Facebook**](https://www.facebook.com/patrick.hogan.735)
 
 ---
 
 **"Don't just listen. Entrain."**
 
-Welcome to the official repository for **HEMS**. Unlike standard "relaxing music" or panpipe tracks, HEMS is a precision-engineered 6-layer audio environment designed to synchronize brainwave activity and induce specific states of consciousness—from deep relaxation to high-clarity focus.
+Welcome to the official repository for **H.E.M.S.**. Unlike passive "relaxing music," H.E.M.S. is a precision-engineered 7-layer audio environment designed to synchronize brainwave activity and induce specific states of consciousness—from deep restoration to high-clarity focus.
 
-## 🚀 The HEMS Mission
-Have you ever listened to relaxing music and felt... nothing? Most "meditation music" is passive. HEMS is **active**. 
-
-We use a "Neural Ramp" to guide your biology. If you are stressed, HEMS makes that stress lighter. If you are stuck, it clears the fog. We provide the architecture; your brain does the rest.
+## 🚀 The H.E.M.S. Mission
+Most meditation audio is decorative; H.E.M.S. is **structural**. We use a "Neural Map" to guide your biology. By reviving the early-2000s "Heritage Wave" and updating it for 2026 high-fidelity standards, we provide the architecture for your brain to achieve rapid "lock-in".
 
 ---
 
-## 🏗 The 7-Layer Audio Engine
-HEMS is built on a "Stack" of seven distinct audio streams working in harmony to bypass the analytical mind.
+## 🏗 The 7-Layer Harmonic Engine
+Our engine utilizes a stacked environment where every decibel serves a mathematical purpose:
 
-1. **Pink Noise (The Floor):** Balanced energy per octave to mask external distractions and mimic the brain's natural power spectrum.
-2. **Nature Textures (The Anchor):** High-fidelity recordings of Irish forests and water to trigger evolutionary "safety" responses.
-3. **Binaural Beats (The Sync):** Two offset frequencies that create a "phantom" third tone, encouraging Hemispheric Synchronization.
-4. **Isochronic Tones (The Pacer):** Distinct pulses that provide a powerful external rhythm for the brain to follow.
-5. **Solfeggio Tones (The Harmony):** Mathematically derived frequencies (like 432Hz or 528Hz) to provide a smooth, harmonic foundation.
-6. **40Hz Gamma Spikes (The Clarity):** Subtle pulses that keep the "internal observer" awake and lucid during deep relaxation.
-7. **The "Heritage" Pulse-Wave (Amplitudinal Modulation)**
-While modern systems often use simple digital tones, HEMS incorporates a "Legacy" technique derived from early 2000s harmonic engineering. This involves "waving" the entire audio soundscape—literally breathing the volume of the track in sync with Alpha, Theta, or Delta cycles. 
-* **The Magic:** This isn't just an overlay; it’s a structural modulation of the audio itself. It mimics the natural "ebb and flow" of biological rhythms, making the entrainment feel less like a computer tone and more like a physical force.
+1.  **Pink Noise:** A calibrated spectral floor to mask environmental distractions.
+2.  **Nature Textures:** High-fidelity recordings for evolutionary grounding.
+3.  **Binaural Beats:** Precise frequency offsets for Hemispheric Synchronization.
+4.  **Isochronic Tones:** High-intensity rhythmic pacing for rapid neural "lock-in".
+5.  **Planetary Harmonics:** Hans Cousto planetary tunings (e.g., 126.22Hz Sun Resonance) for foundational resonance.
+6.  **40Hz Gamma Spikes:** Subtle pulses to maintain "The Watcher" (lucidity) during deep states.
+7.  **The "Heritage" Pulse-Wave:** A structural volume modulation that mimics biological rhythms, making the entrainment feel like a physical force.
 
 ---
 
-## 🎧 How to Experience HEMS
-To get the most out of the system, follow these steps:
+## 🎧 The Protocol Catalog (v2.2)
 
-* **Hardware:** Headphones are essential for the full frequency range.
-* **Setting:** A quiet, dimly lit space where you won't be interrupted.
-* **Duration:** It takes **7–10 minutes** for the "Frequency Following Response" (FFR) to kick in. But for real entrainment benefit the full 50-minute track is required.
-* **Volume:** Set to a comfortable medium. The entrainment pulses should feel like a background vibration, not a piercing tone.
+### **The Master Cycles (Deep Work)**
+* **Chakra Wash (50 Min):** A 50-minute "Neural Wash" sliding from 8Hz to 15Hz using 60-second H.E.M.S. Ramps.
+* **Universal Theta Slide (50 Min):** Advanced psychological restoration sliding from 12Hz (Alpha) to 5Hz (Deep Theta).
 
-## 📥 Get the Audio
-The latest HEMS Master Releases (including the 50-minute cycles) are available in the **Releases** section of this repository.
-
-👉 [Download HEMS Free Master Releases](https://github.com/Hogan-Meditations-HEMS/Hogan-Meditations-HEMS/releases)
+### **The Targeted Resets (High-Intensity)**
+* **Alpha Reset (22 Min):** A 10Hz Alpha Bridge for mental clarity and "Noob-friendly" introduction
+* **Solar Plexus Reset (22 Min):** Targeted willpower and gut-center grounding using 126.22Hz planetary anchors.
 
 ---
 
-## ⚠️ Safety Disclaimer
+## 📥 Accessing the Vault
+The latest H.E.M.S. Master Releases are available in the **Website**.
+
+👉 [**Official Website**](https://hogan-meditations-hems.github.io/Hogan-Meditations-HEMS/)
+
+---
+
+## ⚠️ Safety & Hardware
+* **Stereo Headphones:** **MANDATORY.** Speakers cannot deliver the necessary frequency offsets.
+* **Eyes Closed:** Required to free up neural energy for entrainment.
 * **DO NOT** listen while driving or operating machinery.
-* **Epilepsy Warning:** HEMS uses rhythmic pulses (Isochronic tones). If you are prone to seizures, consult a doctor before use.
-* **Wellness Tool:** HEMS is a meditatio tool and aid it is not a substitute for medical treatment.
+* **Seizure Warning:** H.E.M.S. uses rhythmic pulsing. Individuals with seizure disorders must consult a professional.
 
 ---
-© 2026 The AIrish Balladeer & Hogan-Meditations-HEMS
+© 2026 The AIrish Balladeer & Hogan-Meditations-HEMS. Engineering the Thin Places.
+
+***
